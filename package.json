@@ -1,6 +1,6 @@
 {
   "name": "formidable-stream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turn node formidable's file part into stream",
   "main": "index.js",
   "repository": "git@github.com:bancek/node-formidable-stream.git",
